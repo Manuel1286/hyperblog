@@ -1,7 +1,11 @@
 Esta es la historia de Manuel Monzon
 
 Manuel Monzno tiene 40 años de edad y nacio en colombia,
+<<<<<<< HEAD
 Anita Platzi tiene 41 años y nacio en internet el pasado 10 de octubre
+=======
+Anita Platzi tiene 41 años y nacio en internet Tres
+>>>>>>> 27339bb (Segundo Commit de Anita)
 viviendo en todo el mundo
 
 hoy hablaremos de tu historia como tester del banco mas lindo del mundo
